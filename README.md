@@ -11,4 +11,16 @@ AI-aided 2D Crack Detection of Rock Surfaces.
 ![  (1)](https://github.com/user-attachments/assets/5472b219-959f-4d4c-908e-a882dd5db16e)
 ![  (1)](https://github.com/user-attachments/assets/0261e452-18d2-46e3-832f-fef1c1998fe9)
 
+Publications:
+
+Artificial intelligence-aided semi-automatic joint trace detection from textured three-dimensional models of rock mass,
+Seyedahmad Mehrishal, Jineon Kim, Jae-Joon Song,
+Journal of Rock Mechanics and Geotechnical Engineering,
+https://doi.org/10.1016/j.jrmge.2024.09.031
+
+Semi-automatic calculation of joint trace length from digital images based on deep learning and data structuring techniques,
+Yong-Ki Lee, Jineon Kim, Chae-Soon Choi, Jae-Joon Song,
+International Journal of Rock Mechanics and Mining Sciences
+https://doi.org/10.1016/j.ijrmms.2021.104981
+
 
