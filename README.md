@@ -7,3 +7,4 @@ AI-aided 2D Crack Detection of Rock Surfaces.
 
 
 ![  (1)](https://github.com/user-attachments/assets/ff8dd35b-8763-4586-8d23-5ed06b1e5de8)
+![  (1)](https://github.com/user-attachments/assets/c344bb62-5f0b-45de-b2d0-f27af4f2ed3a)
